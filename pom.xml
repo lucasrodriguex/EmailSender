@@ -5,11 +5,11 @@
 
 	<groupId>br.com.emailsender</groupId>
 	<artifactId>emailSender</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.2</version>
 	<packaging>jar</packaging>
 
 	<name>emailSender</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Simple Email Sender application</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
